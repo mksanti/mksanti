@@ -6,18 +6,18 @@ My background is in software engineering and open source. I've contributed to pr
 
 ## What I think about
 
-- engineering leadership and how teams make decisions;
-- software architecture, reliability and technical trade-offs;
-- technology and the ways it changes how we work;
-- privacy, the open web and digital independence;
-- tools, systems and practical uses of AI.
+- engineering leadership and how teams make decisions
+- software architecture, reliability and technical trade-offs
+- technology and the ways it changes how we work
+- privacy, the open web and digital independence
+- tools, systems and practical uses of AI
 
 ## Selected open-source work
 
-- [Buefy](https://github.com/buefy/buefy) — lightweight UI components for Vue based on Bulma;
-- [Nuxt Buefy](https://github.com/buefy/nuxt-buefy) — Buefy integration for Nuxt;
-- [Create Nuxt App](https://github.com/nuxt/create-nuxt-app) — project scaffolding for the Nuxt ecosystem;
-- [Books.js](https://github.com/mksanti/books.js) — a collection of JavaScript books in Portuguese.
+- [Buefy](https://github.com/buefy/buefy) — lightweight UI components for Vue based on Bulma
+- [Nuxt Buefy](https://github.com/buefy/nuxt-buefy) — Buefy integration for Nuxt
+- [Create Nuxt App](https://github.com/nuxt/create-nuxt-app) — project scaffolding for the Nuxt ecosystem
+- [Books.js](https://github.com/mksanti/books.js) — a collection of JavaScript books in Portuguese
 
 ## Writing
 
